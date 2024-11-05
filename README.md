@@ -5,3 +5,7 @@ My training experience at LITA Data Analysis
 - Microsoft Excel
 - MySQL
 - Power BI
+
+##DATA VISUALIZATION WITH MYSQL
+
+These are the steps taken and queries wriiten for the SQL project

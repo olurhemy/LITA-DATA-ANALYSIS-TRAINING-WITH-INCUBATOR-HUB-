@@ -5,10 +5,14 @@ My training experience at LITA Data Analysis
 - Microsoft Excel
 - MySQL
 - Power BI
+  
+### LITA CAPSTONE DATASET IN MS EXCEL
+These are the steps and procedures used when cleaning the data set, creating visuals with pivot tables and charts from the pivot table
+
 
 ##DATA VISUALIZATION WITH MYSQL
 
-These are the steps taken and queries wriiten for the SQL project
+These are the steps taken and queries written for the SQL project
 ![Screenshot 2024-11-04 215714](https://github.com/user-attachments/assets/9245b3c4-23d5-4b4e-8ae9-a3fc4f16bce8)
 ![Screenshot 2024-11-04 220041](https://github.com/user-attachments/assets/aa7a70fd-080f-4597-8fdf-29e48c31a8af)
 ![Screenshot 2024-11-04 220339](https://github.com/user-attachments/assets/62954114-e3ed-431c-ab92-2a191460ec5b)

@@ -9,6 +9,20 @@ My training experience at LITA Data Analysis
 ### LITA CAPSTONE DATASET IN MS EXCEL
 These are the steps and procedures used when cleaning the data set, creating visuals with pivot tables and charts from the pivot table
 
+![Screenshot 2024-11-06 172447](https://github.com/user-attachments/assets/499784a9-9b7f-4fad-85c0-bc99f62d8698)
+![Screenshot 2024-11-06 172508](https://github.com/user-attachments/assets/7aae0fee-29c1-4f7d-9cf5-439e56b271ef)
+![Screenshot 2024-11-06 173005](https://github.com/user-attachments/assets/dab3dfec-ffb8-47c8-9198-319d04f559b8)
+![Screenshot 2024-11-06 173034](https://github.com/user-attachments/assets/103cc651-8ace-4f0f-a7a7-06a283be05c3)
+![Screenshot 2024-11-06 173117](https://github.com/user-attachments/assets/de1d9f5e-d62b-404c-ae96-97d1fcaa2814)
+![Screenshot 2024-11-06 173152](https://github.com/user-attachments/assets/674627a0-820b-4d7c-bb51-2649f3a9d95a)
+![Screenshot 2024-11-06 173215](https://github.com/user-attachments/assets/09e81a34-c4c5-422c-b2d8-104e731275a3)
+![Screenshot 2024-11-06 173348](https://github.com/user-attachments/assets/8e192d76-17cc-4484-8c2b-700a8cebc1be)
+![Screenshot 2024-11-06 173433](https://github.com/user-attachments/assets/9cc06030-9ff1-428d-a4de-84cf3de5ed9a)
+![Screenshot 2024-11-06 173506](https://github.com/user-attachments/assets/406ee7e2-d9ef-4a88-8df7-0e718629d4c4)
+![Screenshot 2024-11-06 173608](https://github.com/user-attachments/assets/13508e69-7c7a-46ba-bf75-359fb59f08da)
+
+
+
 
 ##DATA VISUALIZATION WITH MYSQL
 
